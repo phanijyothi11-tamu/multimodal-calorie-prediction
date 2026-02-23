@@ -1,6 +1,6 @@
 # 🍽️ Multimodal Calorie Prediction using Bi-LSTM and CNN
 
-A multimodal deep learning model combining Bi-LSTM and CNN to predict calorie intake using CGM time-series data, neural features, and food images. Achieved **RMSRE as low as 0.33**.
+A multimodal deep learning model combining Bi-LSTM and CNN to predict calorie intake using CGM time-series data, neural features, and food images. Achieved **RMSRE 0.33**.
 
 ---
 
